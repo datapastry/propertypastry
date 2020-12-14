@@ -1,0 +1,452 @@
+[
+  {
+    "price": 7000.0,
+    "type": "1 bedroom flat for sale",
+    "rent_estimate": 650.0,
+    "yield_estimate": 1.1142857142857143,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-75352665.html",
+    "image": "photo-3671a5abd3601a7b90ea89fefa58790c089dcd0c.jpg",
+    "postcode": "M16"
+  },
+  {
+    "price": 7000.0,
+    "type": "1 bedroom flat for sale",
+    "rent_estimate": 650.0,
+    "yield_estimate": 1.1142857142857143,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-75352698.html",
+    "image": "photo-8b338f3cf8ed1a951112e0640a2d1d5e5f55fe92.jpg",
+    "postcode": "M16"
+  },
+  {
+    "price": 8000.0,
+    "type": "1 bedroom flat for sale",
+    "rent_estimate": 650.0,
+    "yield_estimate": 0.975,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-87149236.html",
+    "image": "photo-b600f3ba1e1d816d5d94c7e9a61dbf2a3a86b315.jpg",
+    "postcode": "M16"
+  },
+  {
+    "price": 10000.0,
+    "type": "3 bedroom terraced house for sale",
+    "rent_estimate": 347.0,
+    "yield_estimate": 0.4164,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-99799799.html",
+    "image": "photo-65daf5c379bb8dbf4f6d9c3eb22730035590b387.jpg",
+    "postcode": "TS1"
+  },
+  {
+    "price": 30000.0,
+    "type": "3 bedroom semi-detached house for sale",
+    "rent_estimate": 950.0,
+    "yield_estimate": 0.38,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-67977543.html",
+    "image": "photo-60dd2a92764131283846c8da0293f70b3c33d6e9.jpg",
+    "postcode": "M11"
+  },
+  {
+    "price": 20000.0,
+    "type": "3 bedroom semi-detached house for sale",
+    "rent_estimate": 550.0,
+    "yield_estimate": 0.33,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-86190868.html",
+    "image": "photo-76b1b9a9c104d0e2008b091ee69e047a3e5f092b.jpg",
+    "postcode": "DH6"
+  },
+  {
+    "price": 22500.0,
+    "type": "3 bedroom end of terrace house for sale",
+    "rent_estimate": 550.0,
+    "yield_estimate": 0.29333333333333333,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-100384361.html",
+    "image": "photo-af645a99f7b6c69809197cfd9628548f31c9eb72.jpg",
+    "postcode": "DH6"
+  },
+  {
+    "price": 29000.0,
+    "type": "2 bedroom flat for sale",
+    "rent_estimate": 650.0,
+    "yield_estimate": 0.2689655172413793,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-87557767.html",
+    "image": "photo-e75082c0e5fbfe1fcac30fc17d4b668750278a13.jpg",
+    "postcode": "SR1"
+  },
+  {
+    "price": 52000.0,
+    "type": "1 bedroom ground floor flat for sale",
+    "rent_estimate": 1100.0,
+    "yield_estimate": 0.25384615384615383,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-100960250.html",
+    "image": "photo-5eb69af1735dccb30f98242275cc824cb8245cee.jpg",
+    "postcode": "DH1"
+  },
+  {
+    "price": 26000.0,
+    "type": "2 bedroom apartment for sale",
+    "rent_estimate": 550.0,
+    "yield_estimate": 0.25384615384615383,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-75113934.html",
+    "image": "photo-e1614df885fc100410b5a91ad810f5d886b3bc09.jpg",
+    "postcode": "G73"
+  },
+  {
+    "price": 19950.0,
+    "type": "2 bedroom terraced house for sale",
+    "rent_estimate": 412.5,
+    "yield_estimate": 0.24812030075187969,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-75678477.html",
+    "image": "photo-b1b4917dc28b4b83d71b581aab92f5f98963e130.jpg",
+    "postcode": "DH9"
+  },
+  {
+    "price": 75000.0,
+    "type": "2 bedroom apartment for sale",
+    "rent_estimate": 1450.0,
+    "yield_estimate": 0.232,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-71819445.html",
+    "image": "photo-8216e5802be41508c0e9c4c990a8364533947def.jpg",
+    "postcode": "DH1"
+  },
+  {
+    "price": 59000.0,
+    "type": "1 bedroom flat for sale",
+    "rent_estimate": 1100.0,
+    "yield_estimate": 0.22372881355932203,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-97147934.html",
+    "image": "photo-281a4b100b9202a49fc0799393696889afbcec54.jpg",
+    "postcode": "DH1"
+  },
+  {
+    "price": 35000.0,
+    "type": "2 bedroom flat for sale",
+    "rent_estimate": 650.0,
+    "yield_estimate": 0.22285714285714286,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-69318355.html",
+    "image": "photo-f26d6038eb9d218d39fac140a7124dd76a0b3a07.jpg",
+    "postcode": "SR1"
+  },
+  {
+    "price": 45000.0,
+    "type": "1 bedroom flat for sale",
+    "rent_estimate": 800.0,
+    "yield_estimate": 0.21333333333333335,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-69902940.html",
+    "image": "photo-39049e8afab02d65b4e8599815debdc0b45ba17c.jpg",
+    "postcode": "G1"
+  },
+  {
+    "price": 22500.0,
+    "type": "2 bedroom terraced house for sale",
+    "rent_estimate": 393.0,
+    "yield_estimate": 0.2096,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-87147412.html",
+    "image": "photo-42b9f69e911ca3748fcdf04eb728c24aad0d11bc.jpg",
+    "postcode": "DH6"
+  },
+  {
+    "price": 22500.0,
+    "type": "2 bedroom end of terrace house for sale",
+    "rent_estimate": 393.0,
+    "yield_estimate": 0.2096,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-100386344.html",
+    "image": "photo-2b11f1e2072a63358bf7af2f76d904b02d1c348e.jpg",
+    "postcode": "DH6"
+  },
+  {
+    "price": 63000.0,
+    "type": "1 bedroom apartment for sale",
+    "rent_estimate": 1100.0,
+    "yield_estimate": 0.20952380952380953,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-75307341.html",
+    "image": "photo-accc5c4fb7be4af71c9640984ab7d0e93bbea776.jpg",
+    "postcode": "DH1"
+  },
+  {
+    "price": 63000.0,
+    "type": "1 bedroom apartment for sale",
+    "rent_estimate": 1100.0,
+    "yield_estimate": 0.20952380952380953,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-75307359.html",
+    "image": "photo-c6ae8a12d143e5b4ee2f37325cb1578dccb50390.jpg",
+    "postcode": "DH1"
+  },
+  {
+    "price": 59000.0,
+    "type": "3 bedroom house for sale",
+    "rent_estimate": 995.0,
+    "yield_estimate": 0.2023728813559322,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-87038992.html",
+    "image": "photo-7b2972bfb37c4838e533d1012345784418ac6bac.jpg",
+    "postcode": "SA1"
+  },
+  {
+    "price": 39000.0,
+    "type": "1 bedroom flat for sale",
+    "rent_estimate": 650.0,
+    "yield_estimate": 0.2,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-86750797.html",
+    "image": "photo-51a2a8d3e4cec3e544f0e2b68015da09af11beed.jpg",
+    "postcode": "G31"
+  },
+  {
+    "price": 25000.0,
+    "type": "2 bedroom terraced house for sale",
+    "rent_estimate": 412.5,
+    "yield_estimate": 0.198,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-71856534.html",
+    "image": "photo-b4f81e456947466c544f94ae362bc2da9e22749f.jpg",
+    "postcode": "DH9"
+  },
+  {
+    "price": 40000.0,
+    "type": "2 bedroom flat for sale",
+    "rent_estimate": 650.0,
+    "yield_estimate": 0.195,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-61085517.html",
+    "image": "photo-ca00335f572755078f54aaec119f4f7c65ba471b.jpg",
+    "postcode": "SR1"
+  },
+  {
+    "price": 89950.0,
+    "type": "2 bedroom apartment for sale",
+    "rent_estimate": 1450.0,
+    "yield_estimate": 0.1934408004446915,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-75974757.html",
+    "image": "photo-d755ae486bd75be12f17a3e6acdd5aa6c87eff2a.jpg",
+    "postcode": "DH1"
+  },
+  {
+    "price": 90000.0,
+    "type": "2 bedroom flat for sale",
+    "rent_estimate": 1450.0,
+    "yield_estimate": 0.19333333333333333,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-96589775.html",
+    "image": "photo-ebd6f920081ea21bc36f224eb3c3a60af7bb1403.jpg",
+    "postcode": "DH1"
+  },
+  {
+    "price": 90000.0,
+    "type": "2 bedroom apartment for sale",
+    "rent_estimate": 1450.0,
+    "yield_estimate": 0.19333333333333333,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-75112824.html",
+    "image": "photo-36d3153ce6e3722da4ff5c1516087c5893615bc7.jpg",
+    "postcode": "DH1"
+  },
+  {
+    "price": 90000.0,
+    "type": "2 bedroom flat for sale",
+    "rent_estimate": 1450.0,
+    "yield_estimate": 0.19333333333333333,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-75310074.html",
+    "image": "photo-5237ba0da08ed3cecb9ebcaa46ee710317d70f35.jpg",
+    "postcode": "DH1"
+  },
+  {
+    "price": 49995.0,
+    "type": "1 bedroom apartment for sale",
+    "rent_estimate": 795.0,
+    "yield_estimate": 0.19081908190819083,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-95823875.html",
+    "image": "photo-ee00932d3baa7030d87db741e1a44511f2051774.jpg",
+    "postcode": "M3"
+  },
+  {
+    "price": 50000.0,
+    "type": "1 bedroom flat for sale",
+    "rent_estimate": 795.0,
+    "yield_estimate": 0.1908,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-100178015.html",
+    "image": "photo-54a4ea4d56c8672e524c4862d6ad65954d82f421.jpg",
+    "postcode": "M3"
+  },
+  {
+    "price": 70000.0,
+    "type": "1 bedroom apartment for sale",
+    "rent_estimate": 1100.0,
+    "yield_estimate": 0.18857142857142858,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-68246904.html",
+    "image": "photo-614b03c1355a7d077b1b763dd3975f1e8af54522.jpg",
+    "postcode": "DH1"
+  },
+  {
+    "price": 26500.0,
+    "type": "1 bedroom property for sale",
+    "rent_estimate": 412.5,
+    "yield_estimate": 0.18679245283018867,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-66625588.html",
+    "image": "photo-a55204163323638b6e9142a8e4dd0da043d23abb.jpg",
+    "postcode": "G84"
+  },
+  {
+    "price": 26500.0,
+    "type": "1 bedroom property for sale",
+    "rent_estimate": 412.5,
+    "yield_estimate": 0.18679245283018867,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-66625594.html",
+    "image": "photo-24c8c56b7027db75eadbe3880509421caea184a7.jpg",
+    "postcode": "G84"
+  },
+  {
+    "price": 26500.0,
+    "type": "1 bedroom property for sale",
+    "rent_estimate": 412.5,
+    "yield_estimate": 0.18679245283018867,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-55390122.html",
+    "image": "photo-445d04322eb3a1dd5a6096e9698273eb61b8b48f.jpg",
+    "postcode": "G84"
+  },
+  {
+    "price": 78000.0,
+    "type": "3 bedroom terraced house for sale",
+    "rent_estimate": 1200.0,
+    "yield_estimate": 0.18461538461538463,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-86375917.html",
+    "image": "photo-0010ba29c6b9397c9d935737b7a4e0d6bb586c2d.jpg",
+    "postcode": "NG12"
+  },
+  {
+    "price": 65000.0,
+    "type": "2 bedroom flat for sale",
+    "rent_estimate": 1000.0,
+    "yield_estimate": 0.18461538461538463,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-97974725.html",
+    "image": "photo-d68a62897b758bc8bba71b305e9d795f5c34f3a2.jpg",
+    "postcode": "G1"
+  },
+  {
+    "price": 65000.0,
+    "type": "2 bedroom flat for sale",
+    "rent_estimate": 1000.0,
+    "yield_estimate": 0.18461538461538463,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-97974728.html",
+    "image": "photo-0fd537b14f9f5bf2e702c17214b4625da52dc5b1.jpg",
+    "postcode": "G1"
+  },
+  {
+    "price": 95000.0,
+    "type": "2 bedroom penthouse for sale",
+    "rent_estimate": 1450.0,
+    "yield_estimate": 0.1831578947368421,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-20485441.html",
+    "image": "photo-fab31afc136eb73aff8f42ef87cd44d9f7fcfb3e.jpg",
+    "postcode": "DH1"
+  },
+  {
+    "price": 95000.0,
+    "type": "2 bedroom penthouse for sale",
+    "rent_estimate": 1450.0,
+    "yield_estimate": 0.1831578947368421,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-16781999.html",
+    "image": "photo-8dd2105ee39a7af80c04bc315719abd40e7198de.jpg",
+    "postcode": "DH1"
+  },
+  {
+    "price": 95000.0,
+    "type": "2 bedroom ground floor flat for sale",
+    "rent_estimate": 1450.0,
+    "yield_estimate": 0.1831578947368421,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-75629070.html",
+    "image": "photo-71bb000396bd7c1d52aa3d0129424f2bb06002cc.jpg",
+    "postcode": "DH1"
+  },
+  {
+    "price": 50000.0,
+    "type": "1 bedroom flat for sale",
+    "rent_estimate": 750.0,
+    "yield_estimate": 0.18,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-96093695.html",
+    "image": "photo-a3c2b80b8e8dc281588cf74e31218cd68ad0900b.jpg",
+    "postcode": "NG1"
+  },
+  {
+    "price": 50000.0,
+    "type": "1 bedroom flat for sale",
+    "rent_estimate": 750.0,
+    "yield_estimate": 0.18,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-87416900.html",
+    "image": "photo-43fb818ca89fcf0597b6dd27025a74771707903d.jpg",
+    "postcode": "NG1"
+  },
+  {
+    "price": 27500.0,
+    "type": "2 bedroom terraced house for sale",
+    "rent_estimate": 412.5,
+    "yield_estimate": 0.18,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-83191474.html",
+    "image": "photo-6d868245ec766f54992a88cd3a7c48a288e41581.jpg",
+    "postcode": "DH9"
+  },
+  {
+    "price": 50000.0,
+    "type": "1 bedroom flat for sale",
+    "rent_estimate": 750.0,
+    "yield_estimate": 0.18,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-74716569.html",
+    "image": "photo-0c03a077f496c375091c2185b101451b9fea53b3.jpg",
+    "postcode": "NG1"
+  },
+  {
+    "price": 50000.0,
+    "type": "1 bedroom flat for sale",
+    "rent_estimate": 750.0,
+    "yield_estimate": 0.18,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-86009272.html",
+    "image": "photo-9c3ddf6f5b7d2e507c7b52f12786ffd893be677a.jpg",
+    "postcode": "NG1"
+  },
+  {
+    "price": 85000.0,
+    "type": "3 bedroom flat for sale",
+    "rent_estimate": 1250.0,
+    "yield_estimate": 0.17647058823529413,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-85164937.html",
+    "image": "photo-bcde9360fc358fe1503a9b184e01da2d8500e562.jpg",
+    "postcode": "M15"
+  },
+  {
+    "price": 90000.0,
+    "type": "3 bedroom terraced house for sale",
+    "rent_estimate": 1274.0,
+    "yield_estimate": 0.16986666666666667,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-74392347.html",
+    "image": "photo-ef7fd04d86691d69608b600873123533fd353bc4.jpg",
+    "postcode": "NG7"
+  },
+  {
+    "price": 90000.0,
+    "type": "3 bedroom terraced house for sale",
+    "rent_estimate": 1274.0,
+    "yield_estimate": 0.16986666666666667,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-85053610.html",
+    "image": null,
+    "postcode": "NG7"
+  },
+  {
+    "price": 35000.0,
+    "type": "3 bedroom terraced house for sale",
+    "rent_estimate": 490.0,
+    "yield_estimate": 0.168,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-99585341.html",
+    "image": "photo-acadb2a53697426f11c2617265f1fd4835cd705a.jpg",
+    "postcode": "DH9"
+  },
+  {
+    "price": 47000.0,
+    "type": "1 bedroom flat for sale",
+    "rent_estimate": 650.0,
+    "yield_estimate": 0.16595744680851063,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-74811882.html",
+    "image": "photo-cfa7e55bd267d50f2794563fe2e6661f94eed3d5.jpg",
+    "postcode": "G31"
+  },
+  {
+    "price": 105000.0,
+    "type": "2 bedroom apartment for sale",
+    "rent_estimate": 1450.0,
+    "yield_estimate": 0.1657142857142857,
+    "url": "http://www.rightmove.co.uk/property-for-sale/property-62488329.html",
+    "image": "photo-ef70a27637782650b82374677965e4389439d345.jpg",
+    "postcode": "DH1"
+  }
+]

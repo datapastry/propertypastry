@@ -1,0 +1,46 @@
+
+body {
+    font-family: 'Cabin', sans-serif;
+}
+
+#properties {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.deal {
+    display: block;
+    margin: 50px;
+    border: 3px solid #E9E9EB;
+    padding: 50px;
+
+    text-decoration: none;
+    color: #202020;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+.deal:hover {
+    background: #F9F9FB;
+}
+
+.deal-summary {
+    display: block;
+    text-decoration: none;
+}
+
+.price {
+    display: block;
+}
+
+.deal-summary:hover {
+    color: #5975ff;
+}
+
+.property-image {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 583px;
+    height: 437px;
+    object-fit: cover;
+}
