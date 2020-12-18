@@ -17,7 +17,7 @@ function createPropertyDiv(row) {
 
     const price = document.createElement("div");
     price.classList.add("price");
-    let price_detail = "£" + row.price + ", estimated rent £" + row.rent_estimate
+    let price_detail = row.price_qualifiers + " £" + row.price + ", estimated rent £" + row.rent_estimate
         + " per month, " + (row.yield_estimate*100).toFixed(1) + "% yield";
     price.appendChild(document.createTextNode(price_detail));
     newRow.appendChild(price);
